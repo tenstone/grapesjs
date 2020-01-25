@@ -1,11 +1,11 @@
-import en from './locale/en';
+import zh from './locale/zh';
 
 export default {
   // Locale value
-  locale: 'en',
+  locale: 'zh',
 
   // Fallback locale
-  localeFallback: 'en',
+  localeFallback: 'zh',
 
   // Detect locale by checking browser language
   detectLocale: 1,
@@ -15,6 +15,6 @@ export default {
 
   // Messages to translate
   messages: {
-    en
+    zh
   }
 };
